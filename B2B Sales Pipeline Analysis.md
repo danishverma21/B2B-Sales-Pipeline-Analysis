@@ -48,20 +48,19 @@ A personal goal of this project is to enhance my ability to craft complex SQL qu
   * Product Success Rates  
   * Sector Performance
   * Sales Cycle Duration
-
-  ## 🔗 **Explore the Project**
-
-You can find the full project, including all the Python scripts, SQL queries, and the Power BI report in my GitHub repository:
-
-🔗 [Check out the full project here!](https://github.com/danishverma21/B2B-Sales-Analysis-/tree/7de5620b8201b501fd626b5ff1d3e3506b5d787d/CRM_Sales_Opportunities_project-main)
   
 #### 📊 [Report Creation](https://github.com/natalyamn/CRM_Sales_Opportunities_project/tree/main/4.%20Report%20Creation)
 
 * **📣 Insights Presentation:** Leveraging Power BI to construct a comprehensive report.
 
+
+#### 🔗 **Explore the Project**
+
+You can find the full project, including all the Python scripts, SQL queries, and the Power BI report in my GitHub repository:
+
+🔗 [Check out the full project here!](https://github.com/danishverma21/B2B-Sales-Analysis-/tree/7de5620b8201b501fd626b5ff1d3e3506b5d787d/CRM_Sales_Opportunities_project-main)
 **🔗 Link to the Interactive Power BI Report:** [**Report**](https://app.powerbi.com/view?r=eyJrIjoiNGJlYTc2MTYtYzJiNy00ZmY2LWIyMzktN2Y0N2NiZGUwY2IyIiwidCI6IjAxMjJmNmU1LTFkMDAtNDU4Zi1hMjNlLWI4YTk4YmJhMDczZCIsImMiOjl9) 
 
-*Disclaimer: The units shown in this report may vary based on your browser's regional settings. This report was designed with the US region in mind. Please adjust your regional settings if necessary to match the units used in this report.*
 
 ![image](https://github.com/user-attachments/assets/41b9bc3e-a4f8-44c6-8813-aefe4dcedb40)
 
