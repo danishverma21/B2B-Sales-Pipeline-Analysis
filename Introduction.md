@@ -38,7 +38,7 @@ Over the past month, I’ve worked on the following key areas:
 
 You can find the full project, including all the Python scripts, SQL queries, and the Power BI report in my GitHub repository:
 
-🔗 [Check out the full project here!](www.github.com/CRM_Sales_Opportunities_project-main)
+🔗 [Check out the full project here!](https://github.com/danishverma21/B2B-Sales-Analysis-/tree/7de5620b8201b501fd626b5ff1d3e3506b5d787d/CRM_Sales_Opportunities_project-main)
 
 ---
 
