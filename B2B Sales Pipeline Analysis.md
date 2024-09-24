@@ -48,6 +48,12 @@ A personal goal of this project is to enhance my ability to craft complex SQL qu
   * Product Success Rates  
   * Sector Performance
   * Sales Cycle Duration
+
+  ## 🔗 **Explore the Project**
+
+You can find the full project, including all the Python scripts, SQL queries, and the Power BI report in my GitHub repository:
+
+🔗 [Check out the full project here!](https://github.com/danishverma21/B2B-Sales-Analysis-/tree/7de5620b8201b501fd626b5ff1d3e3506b5d787d/CRM_Sales_Opportunities_project-main)
   
 #### 📊 [Report Creation](https://github.com/natalyamn/CRM_Sales_Opportunities_project/tree/main/4.%20Report%20Creation)
 
