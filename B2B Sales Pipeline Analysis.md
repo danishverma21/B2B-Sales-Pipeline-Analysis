@@ -58,7 +58,7 @@ A personal goal of this project is to enhance my ability to craft complex SQL qu
 
 You can find the full project, including all the Python scripts, SQL queries, and the Power BI report in my GitHub repository:
 
-🔗 [Check out the full project here!](https://github.com/danishverma21/B2B-Sales-Analysis-/tree/7de5620b8201b501fd626b5ff1d3e3506b5d787d/CRM_Sales_Opportunities_project-main)
+🔗 [Check out the full project here!](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis)
 
 
 **🔗 Link to the Interactive Power BI Report:** [**Report**](https://app.powerbi.com/view?r=eyJrIjoiNGJlYTc2MTYtYzJiNy00ZmY2LWIyMzktN2Y0N2NiZGUwY2IyIiwidCI6IjAxMjJmNmU1LTFkMDAtNDU4Zi1hMjNlLWI4YTk4YmJhMDczZCIsImMiOjl9) 
