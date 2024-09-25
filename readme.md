@@ -23,13 +23,13 @@ A personal goal of this project is to enhance my ability to craft complex SQL qu
 
 ## 🔍 Project Phases
 
-#### 📊 [Data Preparation](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/a8c225360605496053fc114ebf6b9650f535c3b8/1.%20Data_Preparation)
+#### 📊 [Data Preparation](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/master/1.%20Data_Preparation)
 
 * **🔎 Data Examination:** A thorough review of raw data files, focusing on structure, contents, and initial insights.
 
 * **🔄 Data Transformation:** Preparing data for efficient analysis.
 
-#### 🏗️ [Data Modeling]https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/a8c225360605496053fc114ebf6b9650f535c3b8/2%20Data_Modelling
+#### 🏗️ [Data Modeling](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/master/2.%20Data_Modelling)
 
 * **🔗 Schema Structure:** Establishing relationships and structuring the data.
 
@@ -37,7 +37,7 @@ A personal goal of this project is to enhance my ability to craft complex SQL qu
 
 * **📥 Data Loading:** Importing prepared data into the database.
 
-#### 📈 [Data Analysis]https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/a8c225360605496053fc114ebf6b9650f535c3b8/3%20Data_Analysis)
+#### 📈 [Data Analysis](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/master/3.%20Data_Analysis)
 
 * **📝 SQL Querying:** Utilizing SQL queries to delve into the core objectives of the project.
 
@@ -49,7 +49,7 @@ A personal goal of this project is to enhance my ability to craft complex SQL qu
   * Sector Performance
   * Sales Cycle Duration
   
-#### 📊 [Report Creation]((https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/a8c225360605496053fc114ebf6b9650f535c3b8/4)%20Report_Creation))
+#### 📊 [Report Creation](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/master/4.%20Report_Creation)
 
 * **📣 Insights Presentation:** Leveraging Power BI to construct a comprehensive report.
 
