@@ -23,7 +23,7 @@ A personal goal of this project is to enhance my ability to craft complex SQL qu
 
 ## 🔍 Project Phases
 
-#### 📊 [Data Preparation](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/a8c225360605496053fc114ebf6b9650f535c3b8/1%20Data_Preparation)
+#### 📊 [Data Preparation](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis/tree/a8c225360605496053fc114ebf6b9650f535c3b8/1.%20Data_Preparation)
 
 * **🔎 Data Examination:** A thorough review of raw data files, focusing on structure, contents, and initial insights.
 
